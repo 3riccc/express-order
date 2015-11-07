@@ -1,0 +1,15 @@
+html,body{
+	height: 100%;
+}
+body{
+	background-color:#676767;
+	font-family: "Microsoft Yahei";
+}
+.order-number input{
+	height: 5rem;
+	font-size: 5rem;
+}
+
+button{
+	font-size: 5rem;
+}
